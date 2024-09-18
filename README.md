@@ -19,6 +19,9 @@ Target id.linkedIn.com
 
 ## Perbandingan 
 Nmap : Terbaik untuk pengguna yang menginginkan kontrol penuh, pemindaian mendalam, dan audit keamanan. Cocok untuk profesional jaringan dan keamanan.
+
 Zenmap: Ideal untuk pengguna yang menginginkan kekuatan Nmap tetapi dengan antarmuka grafis yang lebih mudah diakses. Cocok untuk pengguna teknis yang tidak nyaman dengan terminal.
+
 Angry IP Scanner: Pilihan yang baik untuk pengguna yang membutuhkan pemindaian cepat, ringan, dan sederhana tanpa memerlukan fitur-fitur canggih. Cocok untuk pemindaian jaringan lokal (LAN) atau inventaris perangkat dasar.
+
 Setiap alat ini memiliki kelebihan tersendiri sesuai dengan tingkat kebutuhan dan pengalaman pengguna
