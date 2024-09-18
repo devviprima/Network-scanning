@@ -16,3 +16,9 @@ Target id.linkedIn.com
 <img width="229" alt="port Anggry IP scan" src="https://github.com/user-attachments/assets/34a950cc-b69b-4376-b9ea-8696953f96f4">
 
 <img width="959" alt="Anggry ip scan" src="https://github.com/user-attachments/assets/445ff5e3-1cd1-4064-a84c-467ba57d6a08">
+
+## Perbandingan 
+Nmap : Terbaik untuk pengguna yang menginginkan kontrol penuh, pemindaian mendalam, dan audit keamanan. Cocok untuk profesional jaringan dan keamanan.
+Zenmap: Ideal untuk pengguna yang menginginkan kekuatan Nmap tetapi dengan antarmuka grafis yang lebih mudah diakses. Cocok untuk pengguna teknis yang tidak nyaman dengan terminal.
+Angry IP Scanner: Pilihan yang baik untuk pengguna yang membutuhkan pemindaian cepat, ringan, dan sederhana tanpa memerlukan fitur-fitur canggih. Cocok untuk pemindaian jaringan lokal (LAN) atau inventaris perangkat dasar.
+Setiap alat ini memiliki kelebihan tersendiri sesuai dengan tingkat kebutuhan dan pengalaman pengguna
